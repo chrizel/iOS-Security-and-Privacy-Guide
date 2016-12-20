@@ -122,3 +122,5 @@ TODO
 [/r/privacytoolsIO](https://www.reddit.com/r/privacytoolsIO/)
 
 [Privacy Tools - Encryption Against Global Mass Surveillance](https://www.privacytools.io)
+
+[Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
