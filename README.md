@@ -124,3 +124,5 @@ TODO
 [Privacy Tools - Encryption Against Global Mass Surveillance](https://www.privacytools.io)
 
 [Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+[How to Secure Your iPhone & iPad (Without More Apps)](https://vpnreporter.com/secure-iphone-ipad/)
